@@ -13,21 +13,32 @@ Permette ai cittadini di segnalare problemi ambientali e agli enti locali di ges
 ## 📁 Struttura del progetto
 
 EcoAlert-fe/
+
 ├── lib/
+
 │ ├── main.dart # entry point
+
 │ ├── screens/ # schermate principali
+
 │ ├── models/ # modelli dati (User, Segnalazione, ecc.)
+
 │ ├── services/ # chiamate HTTP al backend
+
 │ └── widgets/ # componenti UI riutilizzabili
+
 ├── assets/
+
 │ └── images/
+
 ├── pubspec.yaml
+
 └── README.md
 
 ## 🚀 Avvio del progetto
 
 ### 1️⃣ Clonare il repository
-git clone https://github.com/Antonio1373/EcoAlert-fe.git
+**git clone https://github.com/Antonio1373/EcoAlert-fe.git**
+
 cd EcoAlert-fe
 
 ### 2️⃣ Installare le dipendenze
@@ -43,10 +54,15 @@ Puoi testarla su:
 
 #### 📱 Funzionalità principali
 Registrazione e login utenti
+
 Creazione di nuove segnalazioni
+
 Visualizzazione delle segnalazioni su mappa
+
 Aggiornamento stato (solo per amministratori)
+
 Upload di immagini o video
 
 ### 👩‍💻 Autori
+
 Progetto realizzato da Antonio Granato per il corso di Informatica – EcoAlert Project.
